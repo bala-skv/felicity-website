@@ -24,6 +24,7 @@
   },
   "scripts": {
     "start": "node server.js",
+    "install":"npm install",
     "dev": "nodemon server.js"
   }
 }
