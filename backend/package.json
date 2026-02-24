@@ -24,7 +24,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "install":"npm install",
+    "install":"echo 'No need for backend build'",
     "dev": "nodemon server.js"
   }
 }
